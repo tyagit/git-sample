@@ -1,1 +1,2 @@
 1 am from git_sample
+i am for new_branch
